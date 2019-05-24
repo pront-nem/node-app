@@ -1,0 +1,30 @@
+h1 {
+    padding: 0.25em 0.5em;/*上下 左右の余白*/
+    color: #494949;/*文字色*/
+    background: transparent;/*背景透明に*/
+    border-right: solid 5px #7db4e6;/*左線*/
+  }
+body {
+    font-size: 12pt;
+    color: #494949;
+    margin: 5px;
+}
+P {
+    font-size: 12px;
+    margin :0px 20px;
+}
+table{
+    margin: 20px;
+}
+table tr th{
+    background-color: #999999;
+    color: #ffffff;
+    text-align: center;
+    padding:  3px 10px;
+}
+table tr td{
+    background-color: #eeeeee;
+    color: #666666;
+    text-align: left
+    padding 3px 10px;
+}
